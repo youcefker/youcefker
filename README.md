@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  ![DogGraphGIF](https://github.com/youcefker/youcefker/assets/57765144/6fa89cf5-65b6-422e-a38a-f4c805be17f6)
+  <img href="https://github.com/youcefker/youcefker/assets/57765144/6fa89cf5-65b6-422e-a38a-f4c805be17f6"/>
 
 </p>
 
