@@ -2,7 +2,7 @@
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=youcefker&color=brightgreen" alt="watching_count" />
+
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-24-blue" />
@@ -14,11 +14,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Abdelfatah KERMALI </h1>
 <h3 align="center">PhD Student | Reinforcement Learning | Human Mobility Prediction </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/abdelfatah-kermali-959661179/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/abdelfatah-kermali-959661179/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
 </p>
 </p>
 
+<p align="center">
+  ![DogGraphGIF](https://github.com/youcefker/youcefker/assets/57765144/6fa89cf5-65b6-422e-a38a-f4c805be17f6)
 
+</p>
 
 <p align="center">
   <em>
@@ -34,7 +37,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ I’m currently starting <b>my 1st year of PhD</b> about Human Mobility Prediction, so of course I am doing the state of art 📜 <br>
-✔ I’m also a <b>Software Engineer</b> with 3 years freelance experience ![CatTypingGIF](https://github.com/youcefker/youcefker/assets/57765144/b0de19b9-405f-484f-a53b-7401e78b5f11)
+✔ I’m also a <b>Software Engineer</b> with 3 years freelance experience 🧑‍💻
  <br>
 ✔ I’m currently Preparing a medium blog series about Deep understanding of Reinforcement Learning field starting from Markov Decision Processes (MDPs) to advanced RL algorithms 👌 <br>
 ✔ I’m looking to collaborate with any **Open - Source RL or Human Mobility tools**<br>
