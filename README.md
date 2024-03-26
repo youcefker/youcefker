@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
- <iframe src="https://giphy.com/embed/J6reKBcmspwiMbTsNh" width="480" height="346" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+ <img src="https://giphy.com/embed/J6reKBcmspwiMbTsNh" width="480" height="346" frameBorder="0" class="giphy-embed" allowFullScreen/>
 
 </p>
 
