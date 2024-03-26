@@ -33,13 +33,13 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ I’m currently starting my PhD about Human Mobility Prediction, so of course I am doing the state of art 📜
-✔ I’m currently Preparing a medium blog series about Deep understanding of Reinforcement Learning field startion from Markov Decision Processes (MDPs) to advanced RL algorithm 👌
-✔ I’m looking to collaborate with any **Open - Source RL or Human Mobility tools**<br>
+✔ I’m currently starting my PhD about Human Mobility Prediction, so of course I am doing the state of art 📜 </br>
+✔ I’m currently Preparing a medium blog series about Deep understanding of Reinforcement Learning field startion from Markov Decision Processes (MDPs) to advanced RL algorithm 👌 </br>
+✔ I’m looking to collaborate with any **Open - Source RL or Human Mobility tools**<br> </br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 
 <h2> My latest Papers </h2>: 
-✔ <a href="https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=cE-g7zgAAAAJ&citation_for_view=cE-g7zgAAAAJ:u-x6o8ySG0sC"><b>Towards a Modular Deep Reinforcement Learning Digital-Twins Framework: A Step towards optimal RMS control</b></a>
+✔ <a href="https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=cE-g7zgAAAAJ&citation_for_view=cE-g7zgAAAAJ:u-x6o8ySG0sC"><b>Towards a Modular Deep Reinforcement Learning Digital-Twins Framework: A Step towards optimal RMS control</b></a> </br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
