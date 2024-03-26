@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
+
 <br>
 
 <p align="left"> 
@@ -24,8 +22,8 @@
 
 <p align="center">
   <em>
-    Hello, I am Abdelfatah KERMALI a <b>PhD Student</b> at <a href="https://lineact.cesi.fr/" target="blank"></a><b>CESI LINEACT Lab</b>graduated from <a href="https://www.esi-sba.dz/"> <b>Higher School of Computer Science - Sidi Belabbes, Algeria</b> </a>
-    Passionate with modeling complex systems using <b>Maths, Statistics and Algebra</b> and Improve the controle and decision making in these systems using <b>Reinforcement Learning (RL)</b>
+    Hello, I am Abdelfatah KERMALI a <b>PhD Student</b> at <a href="https://lineact.cesi.fr/" target="blank"><b>CESI LINEACT Lab</b></a> graduated from <a href="https://www.esi-sba.dz/"> <b>Higher School of Computer Science - Sidi Belabbes, Algeria</b> </a>
+   Passionate about modeling complex systems with proficiency in <b>Mathematics, Statistics, and Algebra</b>, while enhancing control and decision-making capabilities within these systems through the application of <b>Reinforcement Learning (RL)</b> and <b>Operations Research (OR)</b> Technics
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -35,12 +33,13 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ I’m currently starting my PhD about Human Mobility Prediction, so of course I am doing the state of art 📜
+✔ I’m currently Preparing a medium blog series about Deep understanding of Reinforcement Learning field startion from Markov Decision Processes (MDPs) to advanced RL algorithm 👌
+✔ I’m looking to collaborate with any **Open - Source RL or Human Mobility tools**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+
+<h2> My latest Papers </h2>: 
+✔ <a href="https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=cE-g7zgAAAAJ&citation_for_view=cE-g7zgAAAAJ:u-x6o8ySG0sC"><b>Towards a Modular Deep Reinforcement Learning Digital-Twins Framework: A Step towards optimal RMS control</b></a>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
@@ -69,14 +68,4 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
 
-<hr>
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
