@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img href="https://github.com/youcefker/youcefker/assets/57765144/6fa89cf5-65b6-422e-a38a-f4c805be17f6"/>
+ <iframe src="https://giphy.com/embed/J6reKBcmspwiMbTsNh" width="480" height="346" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 </p>
 
@@ -43,7 +43,7 @@
 ✔ I’m looking to collaborate with any **Open - Source RL or Human Mobility tools**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 
-<h2> My latest Papers </h2>: 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My latest Papers ....***: 
 ✔ <a href="https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=cE-g7zgAAAAJ&citation_for_view=cE-g7zgAAAAJ:u-x6o8ySG0sC"><b>Towards a Modular Deep Reinforcement Learning Digital-Twins Framework: A Step towards optimal RMS control</b></a> </br>
  
 
