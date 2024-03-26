@@ -19,11 +19,6 @@
 </p>
 
 <p align="center">
- <img src="https://giphy.com/embed/J6reKBcmspwiMbTsNh" width="480" height="346" frameBorder="0" class="giphy-embed" allowFullScreen/>
-
-</p>
-
-<p align="center">
   <em>
     Hello, I am Abdelfatah KERMALI a <b>PhD Student</b> at <a href="https://lineact.cesi.fr/" target="blank"><b>CESI LINEACT Lab</b></a> graduated from <a href="https://www.esi-sba.dz/"> <b>Higher School of Computer Science - Sidi Belabbes, Algeria</b> </a>
    Passionate about modeling complex systems with proficiency in <b>Mathematics, Statistics, and Algebra</b>, while enhancing control and decision-making capabilities within these systems through the application of <b>Reinforcement Learning (RL)</b> and <b>Operations Research (OR)</b> Technics
@@ -43,7 +38,7 @@
 ✔ I’m looking to collaborate with any **Open - Source RL or Human Mobility tools**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My latest Papers ....***: 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My latest Papers ....***:  <br>
 ✔ <a href="https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=cE-g7zgAAAAJ&citation_for_view=cE-g7zgAAAAJ:u-x6o8ySG0sC"><b>Towards a Modular Deep Reinforcement Learning Digital-Twins Framework: A Step towards optimal RMS control</b></a> </br>
  
 
