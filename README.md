@@ -2,7 +2,7 @@
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=youcefker&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-24-blue" />
@@ -33,8 +33,10 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ I’m currently starting my PhD about Human Mobility Prediction, so of course I am doing the state of art 📜 <br>
-✔ I’m currently Preparing a medium blog series about Deep understanding of Reinforcement Learning field startion from Markov Decision Processes (MDPs) to advanced RL algorithm 👌 <br>
+✔ I’m currently starting <b>my 1st year of PhD</b> about Human Mobility Prediction, so of course I am doing the state of art 📜 <br>
+✔ I’m also a <b>Software Engineer</b> with 3 years freelance experience ![CatTypingGIF](https://github.com/youcefker/youcefker/assets/57765144/b0de19b9-405f-484f-a53b-7401e78b5f11)
+ <br>
+✔ I’m currently Preparing a medium blog series about Deep understanding of Reinforcement Learning field starting from Markov Decision Processes (MDPs) to advanced RL algorithms 👌 <br>
 ✔ I’m looking to collaborate with any **Open - Source RL or Human Mobility tools**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 
@@ -45,7 +47,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
-  <code><img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgit-scm.com%2Fdownloads%2Flogos&psig=AOvVaw2AubZlAnDQu2nlNdshcQTo&ust=1711553221547000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCw1-CekoUDFQAAAAAdAAAAABAE"></code>
+  <code><img height="50" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"></code>
   <code> <img height="50" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
