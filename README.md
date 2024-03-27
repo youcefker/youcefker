@@ -21,7 +21,7 @@
 <p align="center">
   <em>
     Hello, I am Abdelfatah KERMALI a <b>PhD Student</b> at <a href="https://lineact.cesi.fr/" target="blank"><b>CESI LINEACT Lab</b></a> graduated from <a href="https://www.esi-sba.dz/"> <b>Higher School of Computer Science - Sidi Belabbes, Algeria</b> </a>
-   Passionate about modeling complex systems with proficiency in <b>Mathematics, Statistics, and Algebra</b>, while enhancing control and decision-making capabilities within these systems through the application of <b>Reinforcement Learning (RL)</b> and <b>Operations Research (OR)</b> Technics
+   Passionate about modeling complex systems with proficiency in <b>Mathematics, Statistics, and Algebra</b>, while enhancing control and decision-making capabilities within these systems through the application of <b>Reinforcement Learning (RL)</b> and <b>Operations Research (OR)</b> Technics and brings these solutions to life with my <b>Software Engineering</b> Skills 🤓.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
