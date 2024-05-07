@@ -24,7 +24,7 @@
    Passionate about modeling complex systems with proficiency in <b>Mathematics, Statistics, and Algebra</b>, while enhancing control and decision-making capabilities within these systems through the application of <b>Reinforcement Learning (RL)</b> and <b>Operations Research (OR)</b> Technics and brings these solutions to life with my <b>Software Engineering</b> Skills 🤓.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose your programming language wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
