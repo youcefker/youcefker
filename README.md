@@ -31,7 +31,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ I’m currently starting <b>my 1st year of PhD</b> about Human Mobility Prediction, so of course I am doing the state of art 📜 <br>
+✔ I’m currently starting <b>my 2st year of PhD</b> about Human Mobility Prediction <br>
 ✔ I’m also a <b>Software Engineer</b> with 3 years freelance experience 🧑‍💻
  <br>
 ✔ I’m currently Preparing a medium blog series about Deep understanding of Reinforcement Learning field starting from Markov Decision Processes (MDPs) to advanced RL algorithms 👌 <br>
